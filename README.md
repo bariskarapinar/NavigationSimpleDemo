@@ -18,6 +18,12 @@ Built with **100% Kotlin**, this project demonstrates the transition from tradit
 
 ## 📸 App Showcase
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd5fc736-173b-433c-9889-36f844b4e376" width="24%">
+  <img src="https://github.com/user-attachments/assets/8aeacfbc-8899-48bd-bb79-a0c9a1cbe62f" width="24%">
+  <img src="https://github.com/user-attachments/assets/fad47ab9-9013-4005-9931-e2bcd0490bb4" width="24%">
+</p>
+
 ---
 
 ## 🛠 Tech Stack & Modern Android Development (MAD)
